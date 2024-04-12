@@ -1,0 +1,1 @@
+D:\DATACOUCH\Introduction\ to\ RUST\ Programming\day1-demo\Day-3-Lab\hksrustlib\target\package\hksrustlib-0.1.0\target\debug\libhksrustlib.rlib: D:\DATACOUCH\Introduction\ to\ RUST\ Programming\day1-demo\Day-3-Lab\hksrustlib\target\package\hksrustlib-0.1.0\src\lib.rs

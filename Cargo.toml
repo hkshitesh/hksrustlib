@@ -1,7 +1,13 @@
 [package]
 name = "hksrustlib"
 version = "0.1.0"
+authors = ["Hitesh Kumar Sharma"]
+description = "Sample library in rust"
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/hkshitesh/hksrustlib"
+repository = "https://github.com/hkshitesh/hksrustlib"
 edition = "2021"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
